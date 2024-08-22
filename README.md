@@ -1,2 +1,3 @@
 # laxman
-thia is my 1st repository
+thia is my 1st repository.
+Author- laxman
